@@ -160,7 +160,7 @@ header {
 /* СТИЛИ ДЛЯ ФОТОГРАФИЙ В НОВОСТЯХ*/
 #wrapper #articles article img {
   width: 100%; /* растянул фото в блоке*/
-  /* object-fit: cover;*/
+  object-fit: cover;
   height: 200px; /* высота фото*/
   border-radius: 5px 5px 0px 0px;
   border-bottom: solid silver; /* черта под фотографией*/
